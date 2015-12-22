@@ -1,9 +1,11 @@
 @echo off
-title Client language change
-@echo --------------------------------------------------
-@echo ----       Client Language Change v0.1        ----
-@echo ----          Script by Amir Torrez           ----
-@echo --------------------------------------------------
+title ADB/Fastboot installer
+@echo **************************************************
+@echo **            ADB/Fastboot installer            **
+@echo **************************************************
+@echo **         Script creado por Amir Torrez        **
+@echo **          para la comunidad Vegnuxmod         **
+@echo **************************************************
 @echo.
 echo Este archivo debe ejecutarse en modo administrador.
 echo Sino ha sido ejecutado como administrador cierralo y 
